@@ -7,6 +7,7 @@
    
     > Roman Seleznev is continually likened to the Amazon of the carding industry. His online marketplaces for stolen credit cards forever changed computer crime and made him a prime target for the Secret Service. This talk will go through his life of hacking, wealth, and why he's getting out of prison in 2038.
 
+    [Talk Video](https://youtu.be/sz6IJjxlspo)
 
 2. **Intro to the RIT Red Team**
    
@@ -14,12 +15,15 @@
    
     > Lets talk about the RIT Red team!
 
+    [Talk Video](https://youtu.be/wMMt1YhDQjM)
 
 3. **How To Ask Technical Questions**
    
     *Shannon McHale* @Littlehack3r
    
     > “There is no such thing as a stupid question” is true, but there are smarter ways to ask them. In this presentation, I will go over some tricks to ensure you can always ask good technical questions. Take these tips and use them to participate in class and RITSEC! The person presenting will appreciate you for it.   
+    
+    [Talk Video](https://youtu.be/Pbah0LkH0nI)
 
 ## Challenges:
 - **Note: Demo time for week 1 is used for socializing** 
@@ -43,6 +47,7 @@
 
 
 ## Local News:
+[Research Video Section](https://www.youtube.com/watch?v=ntWu8gpLfkM)
 - **Kick Off BBQ** Today at 4
 - **HackerThon 2** Tomorrow Morning in SecLab starting at 10 (Make sure you snag a ticket!)
 - **Newsletter** [mail.ritsec.club](mail.ritsec.club)
