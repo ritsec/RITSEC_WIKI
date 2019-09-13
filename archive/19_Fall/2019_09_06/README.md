@@ -36,12 +36,15 @@
 
 ## Security News:
 1. **123456'? Thats the code to my luggage**
+   
    https://www.zdnet.com/article/600000-gps-trackers-left-exposed-online-with-a-default-password-of-123456
 
 2. **419m Person Yellow Pages Published, Curtesy of Facebook**
+   
     https://www.darkreading.com/risk/419m-facebook-user-phone-numbers-publicly-exposed/d/d-id/1335740
 
 3. **Google Calendar spam lets you become the most popular kid in school**
+   
     https://www.theverge.com/2019/8/23/20829615/google-calendar-spam-events-sharing-email-how-to-stop
 
 ## Local News:
