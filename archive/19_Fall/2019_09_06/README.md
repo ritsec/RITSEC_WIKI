@@ -26,9 +26,13 @@
     [Talk Video](https://www.youtube.com/watch?v=n35IguN-ZxQ)
 
 ## Challenges:
-   ** Challenge VM Download Link **
+1. ** Challenge VM Download Link **
+   
    http://week2-linux.ritsec.club
  
+ 2. ** Write up is coming soon next wins ** 
+ 
+
 
 ## Security News:
 1. **123456'? Thats the code to my luggage**
