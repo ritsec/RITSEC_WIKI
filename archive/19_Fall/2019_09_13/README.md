@@ -14,7 +14,9 @@
     > An overview on how I learned OSINT (Open Source Intelligence) by investigating the theft of my credit card, with an overview on other OSINT techniques that I have used in the real world.
 
 ## Challenges:
-  `Coming Soon`
+1. ** Challenge VM Download Link ** 
+
+http://week3-windows.ritsec.club 
 
 ## Security News:
 We are trying something different for the news. Send Ian the things you want to talk about and see them get posted here.
