@@ -13,7 +13,8 @@
    
     *Jim Maskelony* @Degenerat3
    
-    > This talk will explore the topic of covert comms, specifically steganography, and how they can be applied to cyber security.
+    > This talk will explore the topic of covert communications, specifically steganography, and how they can be applied to cyber security.
+
     [Talk Video](https://www.youtube.com/watch?v=iKUQROblTxo)
 
 3. **My First Red Team Experience**
@@ -21,13 +22,14 @@
     *Jon Bauer* @JonBauer123
    
     > This is a talk about how Jon got started with security and what got him into red teaming. Then it gets into his first red team experience, what he made, and what he learned from it.
+
     [Talk Video](https://www.youtube.com/watch?v=n35IguN-ZxQ)
 
 ## Challenges:
   `Coming Soon`
 
 ## Security News:
-1. **123456'? Thats the code to my luggage **
+1. **123456'? Thats the code to my luggage**
    https://www.zdnet.com/article/600000-gps-trackers-left-exposed-online-with-a-default-password-of-123456
 
 2. **419m Person Yellow Pages Published, Curtesy of Facebook**
@@ -37,15 +39,15 @@
     https://www.theverge.com/2019/8/23/20829615/google-calendar-spam-events-sharing-email-how-to-stop
 
 ## Local News:
-[Research Video Section](
-- **Newsletter** [mail.ritsec.club](mail.ritsec.club)
-- **Sign Up to Present!** [presentations.ritsec.club](presentations.ritsec.club)
+[Research Video Section](https://www.youtube.com/watch?v=5gK7G8tV5ec)
+- **Newsletter** mail.ritsec.club
+- **Sign Up to Present!** presentations.ritsec.club
 - **Letchworth Trip!**  Its Tomorrow! Be there or be square.
 - **Mentorship!**
-  - Submit projects at [projects.ritsec.club](projects.ritsec.club)
-- [CTF Call for Challenges](ctf-whiteteam.ritsec.club)
-- UB Lockdown - Competition is coming up soon! (Signups are now wait-listing)
-- Movie Night - Showing Swordfish in 1400 on September 15th
-- HackFortess - Contact @MattBrown on workplace if you are interested in competing
+  - Submit projects at projects.ritsec.club
+- **CTF Call for Challenges** ctf-whiteteam.ritsec.club
+- **UB Lockdown** - Competition is coming up soon! (Signups are now wait-listing)
+- **Movie Night** - Showing Swordfish in 1400 on September 15th
+- **HackFortess** - Contact @MattBrown on workplace if you are interested in competing
 
-*Co-Authors: @becksteadn, @Degenerat3, @Littlehack3r*
+*Co-Authors: @JonBauer123, @Degenerat3, @Littlehack3r*
