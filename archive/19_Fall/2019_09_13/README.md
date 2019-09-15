@@ -1,19 +1,25 @@
 # September 13th 2019
 ### Meeting #3 Friday the Thirteenth - Spooky Szn
 ## Research Presentations:
-1. The Hoodie
+1. **The Hoodie**
    
-    *Noah Troy* @NoahTroy
+    *Noah Troy*
+    
+    `@NoahTroy`
     > A security audit of R.I.T., from the eyes of an independent hacker.
 
-2. Competitions & You 
+2. **Competitions & You **
    
-    *Phillip Babey & Ian Furr* @darkfowl @Impos73r
+    *Phillip Babey & Ian Furr*  
+    
+    `@darkfowl` &  `@Impos73r`
     > A little overview on competitions and why we want you to compete in them
 
-3. OSINT: The Ballad of Jimbo
+3. **OSINT: The Ballad of Jimbo**
    
-    *Will Eatherly* @WillEatherly
+    *Will Eatherly*  
+    
+    `@WillEatherly`
     > An overview on how I learned OSINT (Open Source Intelligence) by investigating the theft of my credit card, with an overview on other OSINT techniques that I have used in the real world.
 
 ## Challenges:
