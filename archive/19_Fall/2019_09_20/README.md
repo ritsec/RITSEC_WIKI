@@ -44,10 +44,8 @@
 ## Local News:
 - **Newsletter** mail.ritsec.club
 - **Sign Up to Present!** presentations.ritsec.club
-- **Swag Interest Form** - Last call for swag interest check out the form here swaginterest.ritsec.club.
 - **Mentorship!** - Mentee/Mentor Meetings today during Club. One during demo time & another at the end.
 - **CCDC** - Practice is happening in Seclab from 5-7. If you are interested in competing come to practice even if you aren't sure if you'd make the team.
-- **Resume Banl!** - Submit your resume to the RITSEC Resume bank so we can give it to our sponsors. resume.ritsec.club
 - **UB Prep** - If you are competing, come to our meeting! Its Sunday at 1500
 
 *Co-Authors: @Littlehack3r, @Experiment5X, @DataFrogman, @403badbehavior,  @becksteadn*
