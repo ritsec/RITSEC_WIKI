@@ -22,7 +22,7 @@
 
 ## Challenges:
 
- 
+** There is no challenge due to the career fair ** 
 
 
 ## Security News:
