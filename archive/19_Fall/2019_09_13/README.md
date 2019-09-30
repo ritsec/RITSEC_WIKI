@@ -22,10 +22,18 @@
     `@WillEatherly`
     > An overview on how I learned OSINT (Open Source Intelligence) by investigating the theft of my credit card, with an overview on other OSINT techniques that I have used in the real world.
 
+## Education:
+1. **Week 3 - Intro to Windows**
+   
+   https://tinyurl.com/week3-windows-education
+
 ## Challenges:
 1. **Challenge VM Download Link** 
 
-    http://week3-windows.ritsec.club 
+   http://week3-windows.ritsec.club 
+    
+2. **Writeup** 
+   https://tinyurl.com/week3-windows-writeup
 
 ## Security News:
 We are trying something different for the news. Send Ian the things you want to talk about and see them get posted here.
