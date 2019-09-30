@@ -25,14 +25,19 @@
 
     [Talk Video](https://www.youtube.com/watch?v=n35IguN-ZxQ)
 
+## Education: 
+1. ** Week 2 - Intro to Linux ** 
+
+   https://tinyurl.com/ritsec-2019-fall-week2
+
 ## Challenges:
 1. ** Challenge VM Download Link **
    
-   http://week2-linux.ritsec.club
+   https://tinyurl.com/ritsec-2019-fall-week2-linux
  
- 2. ** Write up is coming soon next wins ** 
+2. ** Write up is coming soon next wins ** 
  
-
+   https://tinyurl.com/ritsec-2019-fall-week2-writeup
 
 ## Security News:
 1. **123456'? Thats the code to my luggage**
